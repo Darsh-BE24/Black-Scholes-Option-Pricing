@@ -33,7 +33,7 @@ A Python-based finance project that calculates European call and put option pric
 ---
 
 
-#Price-Volatility Curve
+# Price-Volatility Curve
 
 
 <img width="991" height="613" alt="image" src="https://github.com/user-attachments/assets/5c925ed2-4c72-4b4c-b880-b060980716d5" />
